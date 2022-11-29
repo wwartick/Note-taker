@@ -9,8 +9,8 @@ A simple note-taking application that a user can input useful notes and reminder
 * CSS
 * OpenWeatherAPI
 
-## Website
-https://wwartick.github.io/Weather-Dashboard/
+## Deployed Application 
+https://radiant-waters-97722.herokuapp.com/
 
 ## Screenshot
 ![screenshot 1 of project](assets/screenshots/ss1.png)
