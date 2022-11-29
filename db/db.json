@@ -1,0 +1,15 @@
+{
+  "notes": [
+    {
+      "title": "Press plus in the upper corner to make new note",
+      "text": "Save Icon will appear to save note",
+      "id": "0"
+    },
+    {
+        "title": "To Do : delete button",
+        "text": "add api route ezpz",
+        "id": "1"
+      }
+  
+  ]
+}
