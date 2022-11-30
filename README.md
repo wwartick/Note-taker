@@ -9,9 +9,7 @@ A simple note-taking application that a user can input useful notes and reminder
 * CSS
 * Express.js
 
-## Deployed Application 
-https://radiant-waters-97722.herokuapp.com/
+## Demonstration Video
+[Click here to view the video](https://drive.google.com/file/d/1VuIF_u4VGMi-ZJFvmp6ZZOS6bvd0rP_I/view)
 
-## Screenshot
-![screenshot 1 of project](assets/screenshots/ss1.png)
-![screenshot 2 of project](assets/screenshots/ss2.png)
+
