@@ -7,7 +7,7 @@ A simple note-taking application that a user can input useful notes and reminder
 * HTML
 * Javascript
 * CSS
-* OpenWeatherAPI
+* Express.js
 
 ## Deployed Application 
 https://radiant-waters-97722.herokuapp.com/
